@@ -4,7 +4,7 @@ In this topic exploration, we study the Meissner-like effect for rotating black 
 It describes the expulsion of stationary axisymmetric magnetic fields from the outer horizon when the black hole reaches its maximum angular momentum. 
 
 # WSS17 Project
-## Growth and spreading of topics in arXiv.org (tentative title)
+## Growth and spreading of topics on arXiv.org (tentative title)
 ### Description: 
 We aim at describing the growth and the spreading of topics in scientific papers posted on arXiv.org.
 Given a keyword representing a scientific subject (e.g., entanglement, gravitational waves, etc...), we want to show the publication rate of those papers containing that keyword in a given time interval.
